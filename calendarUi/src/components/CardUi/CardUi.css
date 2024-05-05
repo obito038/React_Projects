@@ -1,0 +1,23 @@
+.card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .left-column {
+    display: flex;
+    flex-direction: column;
+    /* height: 10%; */
+    justify-content: space-around;
+    /* align-items:  center; */
+    /* align-items: space-around; */
+  }
+  
+  .right-column {
+    display: flex;
+  }
+  
+  .present{
+    background-color: #7e7e7e;
+  }

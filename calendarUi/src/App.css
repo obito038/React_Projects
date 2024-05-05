@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px; /* Add margin at the top */
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: transparent;
+}
+
+.dropdown,
+.calendar {
+  margin-top: 20px; /* Add margin between sections */
+  padding: 10px;
+  background-color: transparent;
+}
